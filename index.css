@@ -8,20 +8,3 @@ header {
     text-align: center;
 }
 
-li {
-    color: white;
-    list-style: none;
-    display: inline-block;
-    position: relative;
-    margin: 0 20px;
-}
-
-a {
-    text-decoration: none;
-    color: white;
-}
-
-a:hover {
-    opacity: 60%;
-    text-decoration: none;
-}
