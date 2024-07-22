@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(27, 27, 27);
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+div img {
+    width: 400px;
+    height: 300px;
+    border: 2px solid rgb(27, 27, 27);
+    border-radius: 13px;
+    box-shadow: 4px 7px 7px 0px #00000042;
+    cursor: pointer;
+    margin: 10px;
+    transition: 400ms;
+}
+
+div img:hover {
+    transform: scale(1.05);
+    border: white;
+    border-radius: 30px;
+}
+
+button {
+    padding: 1%;
+    border-radius: 10%;
+    border: none;
+    background-color: rgb(80, 153, 80);
+    transition: 300ms;
+}
+
+button:hover {
+    border-radius: 50%;
+    background-color: green;
+}
