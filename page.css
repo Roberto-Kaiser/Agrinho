@@ -44,5 +44,4 @@ button {
 button:hover {
     border-radius: 50%;
     background-color: green;
-    cursor: pointer;
 }
