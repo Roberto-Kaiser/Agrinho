@@ -56,13 +56,11 @@ header {
     padding: 1%;
     background-color: rgb(80, 153, 80);
     border: none;
-    transition: 300ms;
 }
 
 .btn:hover {
     background-color: green;
     cursor: pointer;
-    border-radius: 25%;
 }
 
 a {
