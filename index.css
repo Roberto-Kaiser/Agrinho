@@ -61,6 +61,7 @@ header {
 .btn:hover {
     background-color: green;
     cursor: pointer;
+    border-radius: 50%;
 }
 
 a {
