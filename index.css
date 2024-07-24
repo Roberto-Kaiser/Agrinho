@@ -62,7 +62,7 @@ header {
 .btn:hover {
     background-color: green;
     cursor: pointer;
-    border-radius: 1%;
+    border-radius: 5px;
 }
 
 a {
