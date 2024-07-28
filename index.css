@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(27, 27, 27);
+    background-color: white;
 }
 
 header {
@@ -9,14 +9,14 @@ header {
 }
 
 .uno {
-    color: white;
+    color: black;
     padding-top: 50px;
     padding-left: 25px;
     font-size: 35px;
 }
 
 .dos {
-    color: white;
+    color: black;
     padding-top: 35px;
     padding-left: 25px;
     font-size: 22px;
@@ -26,13 +26,13 @@ header {
 
 .titulo {
     text-align: center;
-    color: white;
+    color: black;
     padding-top: 50px;
     font-size: 35px;
 }
 
 .texto {
-    color: white;
+    color: black;
     margin-left: 25%;
     margin-right: 25%;
     padding-top: 35px;
